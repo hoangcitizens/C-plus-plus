@@ -1,0 +1,17 @@
+4
+2
+4
+Black Gold
+Run
+12
+25
+Blue
+Sleep
+8
+15
+Black White
+Eat
+5
+11
+Red Gold
+Sleep

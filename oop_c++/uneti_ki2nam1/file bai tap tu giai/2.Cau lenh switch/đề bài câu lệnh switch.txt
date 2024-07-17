@@ -1,0 +1,31 @@
+1. Viết chương trình nhập vào 3 số nguyên a,b,c. In ra menu lựa chọn
+thực hiện các công việc sau
+1) Tính tổng a+b+c,
+2) Tính tích a*b*c
+3) Giải phương trình ax+b=c
+
+2. Viết chương trình hiển thị một menu có các lựa chọn để tính diện
+tích các hình vuông, hình chữ nhật, hình thang, hình bình hành và
+thực hiện công việc tương ứng. In kết quả ra màn hình.
+
+3. Viết chương trình nhập vào 3 số a, b, c nguyên dương. In ra menu
+chọn thực hiện các công việc sau:
+1) Giải bpt ax + b > c
+2) Giải phương trình ax2 + bx + c = 0
+3) Kiểm tra chúng có tạo thành 3 cạnh tam giác hay không? Nếu
+có thì đó là tam giác gì (đều/cân/vuông/thường)?
+
+4. Viết chương trình nhập vào một số nguyên có hai chữ số. Hãy in ra
+cách đọc của số nguyên này.42
+
+5. Viết chương trình nhập vào một số nguyên có ba chữ số. Hãy in ra
+cách đọc của số nguyên này.43
+Bài toán:
+Viết chương trình in ra menu chọn thực hiện các công việc sau:
+1. Tính diện tích tam giác
+2. Tính diện tích hình chữ nhật
+3. Tính diện tích hình vuông
+4. Tính diện tích hình thang
+5. Tính diện tích hình tròn
+6. Tính diện tích hình bình hành
+3.2 HƯỚNG DẪN BÀI 0
